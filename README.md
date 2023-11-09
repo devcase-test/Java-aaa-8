@@ -1,1 +1,1 @@
-# Java-aaa-8
+Dummy template
